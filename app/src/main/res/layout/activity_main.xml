@@ -16,7 +16,7 @@
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.464" />
@@ -71,7 +71,7 @@
 
 
         app:srcCompat="@drawable/frog" />
-         
+
     <TextView
         android:id="@+id/goal"
         android:layout_width="284dp"
