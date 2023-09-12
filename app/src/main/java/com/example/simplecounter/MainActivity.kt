@@ -50,6 +50,10 @@ class MainActivity : AppCompatActivity() {
                                 goal.text = "You've reached : "+  counter+ " clicks!\n Goals Streak : " + goals.toString() + "\n"
 
                             }
+                            else{
+                                goal.text = "You've reached : "+  (counter-1)+ " clicks!\n Goals Streak : " + goals.toString() + "\n"
+
+                            }
 
 
 
